@@ -54,20 +54,6 @@
 
 ---
 
-## 📌 Featured Projects
-- **Data Platform Mini (DE Stack)** — End-to-end pipeline (Ingest → dbt Transform → Warehouse → BI).  
-  _Spark/Airflow/dbt • Postgres • Docker • Power BI_ • [Repo](#) • [Demo](#)
-
-- **Transactional API + Analytics Layer** — FastAPI service with events to Kafka and batch jobs to warehouse.  
-  _FastAPI • Kafka • Airflow • Parquet • CI/CD_ • [Repo](#)
-
-- **Customer Churn Insights** — Clean notebook + report for EDA, features, and deployment-safe model.  
-  _Pandas • scikit-learn • SHAP • MLflow_ • [Repo](#)
-
-> Replace `(#)` with your repo links and pin these projects on your profile.
-
----
-
 ## 📈 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Teja-ch5&show_icons=true&theme=radical" height="160px"/>
