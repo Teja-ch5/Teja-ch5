@@ -54,14 +54,8 @@
 
 ---
 
-## 📈 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teja-ch5&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-ch5&layout=compact&theme=radical" height="160px"/>
-</p>
 
 
----
 
 ## 📬 Contact
 <p>
